@@ -1,0 +1,18 @@
+inteiro x;
+inteiro y;
+
+x = 10;
+y = 20;
+
+escreva("Inicio");
+
+se(x < y){
+    escreva("X menor");
+}senao{
+    escreva("Y menor");
+}
+
+enquanto(x < 15){
+    escreva(x);
+    x = x + 1;
+}

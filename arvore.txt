@@ -1,0 +1,30 @@
+PROGRAMA
+|-- PROGRAMA
+|-- DECLARACAO
+|   |-- inteiro
+|   |-- x
+|-- DECLARACAO
+|   |-- inteiro
+|   |-- y
+|-- ATRIBUICAO
+|   |-- x
+|   |-- 10
+|-- ATRIBUICAO
+|   |-- y
+|   |-- 20
+|-- ESCREVA
+|   |-- Inicio
+|-- IF
+|   |-- x < y
+|   |-- ESCREVA
+|   |   |-- X menor
+|-- SENAO
+|   |-- ESCREVA
+|   |   |-- Y menor
+|-- WHILE
+|   |-- x < 15
+|   |-- ESCREVA
+|   |   |-- x
+|   |-- ATRIBUICAO
+|   |   |-- x
+|   |   |-- x + 1
